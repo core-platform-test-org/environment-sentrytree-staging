@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.118
+- name: rom14
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - name: rom15
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
